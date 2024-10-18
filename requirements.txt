@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+tensorflow
+regex
+scikit-learn
+streamlit
+keras
+# For Apple Macs
+#tensorflow-macos==2.9
+#tensorflow-metal==0.5.0
